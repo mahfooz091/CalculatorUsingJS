@@ -52,7 +52,7 @@ No installation or setup needed!
 
 ```bash
 # Optional: Clone via git
-git clone https://github.com/your-username/calculator.git
+git clone https://github.com/mahfooz091/CalculatorUsingJS.git
 cd calculator
 ```
 
